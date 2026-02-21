@@ -1,1 +1,9 @@
-"node_modules/" 
+# Visual Studio temporary files
+.vs/
+
+"node_modules/"
+bin/
+obj/
+*.log
+*.user
+*.suo 
